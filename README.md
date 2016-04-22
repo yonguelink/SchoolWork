@@ -7,6 +7,9 @@ Thanks for understanding
 
 ## List of projects
 
+0. Cegep
+	* Work not listed (not even organised), its a simple backup.
+
 0. 2014-Fall
 	0. IFT209
 		0. TP2
