@@ -4,6 +4,24 @@ My school work is under a private repository, if you want to see them, give me y
 
 Thanks for understanding
 
+# Separate Work
+
+0. [Repository Async4.0](https://github.com/yonguelink/Async4.0)
+	* Is somekind of REST Api for Firebase in C# that can be async, using .Net 4.0, or sync.
+0. [Repository isaacotherrien.work](https://github.com/yonguelink/isaacotherrien.work)
+	* Is my personnal website's repository
+0. [Repository D3_THUD](https://github.com/yonguelink/D3_THUD)
+	* A small tool that launch Diablo 3 and Turbo HUD, then closes Battle.Net (because it's eating CPU time to time, and we don't want that)
+0. [Repository iTunesStuff](https://github.com/yonguelink/iTunesStuff)
+	* A simple command line tool that launch iTunes and starts playing a specific Playlist
+0. [Repository SuperMetaBoard](https://github.com/yonguelink/SuperMetaBoard)
+	* An ugly "meta" board for Trello, try it!
+0. [ShrinkRepo](https://github.com/yonguelink/CompletedSchoolWork/tree/master/ShrinkRepo) <- Its private...
+	* ListBigFiles.rb and ShrinkRepo.rb are files from https://www.rallydev.com/blog/engineering/shrinking-git-repository-move-githubcom
+		* Usage : Under a Linux computer (must be able to run Ruby & tail, basically) run `ruby ../istBigFiles.rb 1000 > ../biggestfile` from your git folder repo then, at the same place, run `ruby ShrinkRepo.rb`
+		* What it does: It gather all the 1000 biggest file, and removes them from your git history except those that are still present
+		* Used it in this repo: from 9xx mb to 1xx mb
+
 
 ## List of projects
 
