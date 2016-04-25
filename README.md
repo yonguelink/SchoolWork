@@ -109,5 +109,7 @@ Thanks for understanding
 			* First image of a DDV (Document de Vision in french)
 		0. TP2
 			* First image of a SES and correction of the first DDV according to the SES (Partial Analysis of the problem in the DDV)
+		0. Projet
+			* A project that is only the analysis of a problem (relatively big problem)
 		0. Final
 			* My own notes for the final exam
