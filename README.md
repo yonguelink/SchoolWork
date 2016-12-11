@@ -133,3 +133,10 @@ Thanks for understanding
 			* (Upcoming) The plannibouffe project we had in IGL301, but actually coded
 		0. Portfolio
 			* (Upcoming) Simple review of questions we had to answer out of videos
+	0. IGL601
+		0. TP1
+			* A simple issue tracker
+		0. TP2
+			* How we should've worked around the simple issue tracker if the project was bigger and better organised
+		0. Presentation
+			* A presentation of the previous TPs
