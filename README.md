@@ -129,5 +129,7 @@ Thanks for understanding
 			* The Android client of the server made in the TP1
 		0. TP3
 			* The Web Client of the server made in the TP1
+		0. Project
+			* (Upcoming) The plannibouffe project we had in IGL301, but actually coded
 		0. Portfolio
 			* (Upcoming) Simple review of questions we had to answer out of videos
