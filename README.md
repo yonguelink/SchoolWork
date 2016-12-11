@@ -113,3 +113,12 @@ Thanks for understanding
 			* A project that is only the analysis of a problem (relatively big problem)
 		0. Final
 			* My own notes for the final exam
+
+0. 2016-Fall
+	0. IFT501
+		0. TP1
+			* Running Apriori using Weka
+		0. TP2-3
+			* Custom K-Mean clustering algorithm
+		0. TP4
+			* Custom recommendation system (Collaborative filtering)
