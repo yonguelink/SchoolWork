@@ -140,3 +140,8 @@ Thanks for understanding
 			* How we should've worked around the simple issue tracker if the project was bigger and better organised
 		0. Presentation
 			* A presentation of the previous TPs
+	0. ADM111
+		0. Cas
+			* A simple study case review
+		0. Project
+			* An analyse as of why managers can't avoid dealing with technology
