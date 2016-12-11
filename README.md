@@ -129,3 +129,5 @@ Thanks for understanding
 			* The Android client of the server made in the TP1
 		0. TP3
 			* The Web Client of the server made in the TP1
+		0. Portfolio
+			* (Upcoming) Simple review of questions we had to answer out of videos
