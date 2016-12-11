@@ -122,3 +122,10 @@ Thanks for understanding
 			* Custom K-Mean clustering algorithm
 		0. TP4
 			* Custom recommendation system (Collaborative filtering)
+	0. IFT604
+		0. TP1
+			* A Java server and client (UDP) that deals with hockey matches (lots of threading)
+		0. TP2
+			* The Android client of the server made in the TP1
+		0. TP3
+			* The Web Client of the server made in the TP1
