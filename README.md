@@ -145,3 +145,10 @@ Thanks for understanding
 			* A simple study case review
 		0. Project
 			* An analyse as of why managers can't avoid dealing with technology
+	0. GIS360
+		0. TP1
+			* A basic Tableau de Bord
+		0. TP2
+			* Analyse as of where Starbuck should open an other cafe in Sherbrooke
+		0. Project
+			* We worked with La Fabrique to make a base of Tableau de Bord
