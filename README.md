@@ -18,7 +18,7 @@ Thanks for understanding
 	* An ugly "meta" board for Trello, try it!
 0. [ShrinkRepo](https://github.com/yonguelink/CompletedSchoolWork/tree/master/ShrinkRepo) <- Its private...
 	* ListBigFiles.rb and ShrinkRepo.rb are files from https://www.rallydev.com/blog/engineering/shrinking-git-repository-move-githubcom
-		* Usage : Under a Linux computer (must be able to run Ruby & tail, basically) run `ruby ../istBigFiles.rb 1000 > ../biggestfile` from your git folder repo then, at the same place, run `ruby ShrinkRepo.rb`
+		* Usage : Under a Linux computer (must be able to run Ruby & tail, basically) run `ruby ../ListBigFiles.rb 1000 > ../biggestfile` from your git folder repo then, at the same place, run `ruby ShrinkRepo.rb`
 		* What it does: It gather all the 1000 biggest file, and removes them from your git history except those that are still present
 		* Used it in this repo: from 9xx mb to 1xx mb
 
@@ -130,9 +130,9 @@ Thanks for understanding
 		0. TP3
 			* The Web Client of the server made in the TP1
 		0. Project
-			* (Upcoming) The plannibouffe project we had in IGL301, but actually coded
+			* The plannibouffe project we had in IGL301, but actually coded
 		0. Portfolio
-			* (Upcoming) Simple review of questions we had to answer out of videos
+			* Simple review of questions we had to answer out of videos
 	0. IGL601
 		0. TP1
 			* A simple issue tracker
