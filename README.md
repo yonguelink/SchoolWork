@@ -152,3 +152,23 @@ Thanks for understanding
 			* Analyse as of where Starbuck should open an other cafe in Sherbrooke
 		0. Project
 			* We worked with La Fabrique to make a base of Tableau de Bord
+0. 2017-Winter
+	0. UBI
+		0. ChronoClue
+			* A project we did in a team for the Ubisoft's University contest, we had 10 weeks to make a game
+0. 2017-Summer
+	0. unifyr (A project we did in a team of 4 which connects several chat platforms)
+		0. backend
+			* NodeJS server for our application
+		0. desktopApp
+			* The desktop application version of our app
+		0. documentation
+			* Whatever documentation that was required by our project that we couldn't include in the readmes
+		0. frontendApp
+			* The web application version of our app
+		0. gossage
+			* Testing, trying things around, basically "fucking around"
+		0. mobileApp
+			* The mobile application version of our app
+		0. poc
+			* Proof of Concept for various integration
